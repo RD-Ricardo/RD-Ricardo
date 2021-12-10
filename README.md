@@ -34,5 +34,5 @@
 ## 📫 Find me on 
 
 - 🚀  Site
-- 📸 instagram
-- 💼 Linkdin
+- 📸 [Instagram]("https://www.instagram.com/ricardodias169/?hl=pt-br")
+- 💼 [Linkedin]("https://www.linkedin.com/in/ricardo-dias-a762011bb/")
