@@ -5,8 +5,6 @@
 
 
 - 💻 I'm developer
-- 📝 I'm a student: @Etec Adolpho Berezin studying computer technician, @Fortec-PG studying system development technician
-- 📍 Mongaguá-SP , Brazil 
 
 
 ## ⚡ Technologies
@@ -21,9 +19,7 @@
 
 
  - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
